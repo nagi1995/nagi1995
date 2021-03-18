@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @nagi1995
+- 👀 I’m interested in Data Science roles
+- 🌱 [Link](https://www.linkedin.com/in/bingi-nagesh-5b0412b7/) to my LinkedIn profile
+- 🌱 [Link](https://binginagesh.medium.com/) to my Medium blog
+- 🌱 [Link](https://www.quora.com/profile/Nagesh-Bingi) to my Quora profile
+- 📫 How to reach me M.No: (+91) 8790342923
+
+<!---
+nagi1995/nagi1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
