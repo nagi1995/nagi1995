@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @nagi1995
-- 👀 I’m interested in Data Science roles
 - 🌱 [Link](https://www.linkedin.com/in/bingi-nagesh-5b0412b7/) to my LinkedIn profile
 - 🌱 [Link](https://binginagesh.medium.com/) to my Medium blog
 - 🌱 [Link](https://www.quora.com/profile/Nagesh-Bingi) to my Quora profile
