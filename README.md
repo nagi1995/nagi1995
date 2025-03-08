@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nagi1995
-- 🌱 [Link](https://www.linkedin.com/in/bingi-nagesh-5b0412b7/) to my LinkedIn profile
+- 🌱 [Link](https://www.linkedin.com/in/bnagesh1/) to my LinkedIn profile
 - 🌱 [Link](https://binginagesh.medium.com/) to my Medium blog
 - 🌱 [Link](https://www.quora.com/profile/Nagesh-Bingi) to my Quora profile
 - 📫 How to reach me M.No: (+91) 8790342923
